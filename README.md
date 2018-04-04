@@ -1,5 +1,7 @@
 # Webserver-Info
 
+<img src="https://img.shields.io/docker/automated/bctux/web-server-info.svg">
+
 ## Overview
 
 Returns conatiner hostname
