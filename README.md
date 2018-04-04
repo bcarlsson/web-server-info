@@ -1,7 +1,7 @@
 # Webserver-Info
 
-[![Automated](https://img.shields.io/docker/automated/bctux/web-server-info.svg)]
-[![Build](https://img.shields.io/docker/build/bctux/web-server-info.svg)]
+![Automated](https://img.shields.io/docker/automated/bctux/web-server-info.svg)
+![Build](https://img.shields.io/docker/build/bctux/web-server-info.svg)
 
 ## Overview
 
