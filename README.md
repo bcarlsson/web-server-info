@@ -1,6 +1,7 @@
 # Webserver-Info
 
 <img src="https://img.shields.io/docker/automated/bctux/web-server-info.svg">
+<img src="https://img.shields.io/docker/build/bctux/web-server-info.svg">
 
 ## Overview
 
