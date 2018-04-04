@@ -5,7 +5,7 @@
 
 ## Overview
 
-Returns conatiner hostname
+Web server returning container hostname
 
 ## Usage
 
