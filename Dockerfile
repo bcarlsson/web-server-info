@@ -1,5 +1,5 @@
 FROM golang:alpine
-ADD main.go ./
+ADD . ./
 RUN go build -o main
 EXPOSE 8080
-ENTRYPOINT [ "/main" ]
+ENTRYPOINT [ "/go/main" ]
